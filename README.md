@@ -1,7 +1,7 @@
 # A3-hcds-hcc-bias
 
 ## Goal of the project
-Collecting the amount and quality of articles of politicians from different countries and calculating the articles written per population, the quaity per population and other relations.
+Collecting the amount and quality of articles of politicians from different countries and calculating the articles written per population, the quality per population and other relations.
 
 ## Data acquisition
 ### Source
